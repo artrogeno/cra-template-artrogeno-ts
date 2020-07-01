@@ -1,6 +1,7 @@
 <p align="center">
   <a href="readme/">
-    <img src="https://github.com/Artrogeno/cra-template-artrogeno-ts/blob/master/template/src/assets/images/logo.svg" width=120 height=120 alt="CRA Template Artrogeno Typescript" />
+    <img src="https://github.com/Artrogeno/cra-template-artrogeno-ts/raw/master/template/src/assets/images/logo.svg" width=120 height=120 
+    alt="CRA Template Artrogeno Typescript" />
   </a>
 </p>
 
